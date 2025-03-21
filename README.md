@@ -11,7 +11,9 @@ Hey there, I'm Margo!
   
 ### About Me :
 
-Passionate Software Developer | Web Design Enthusiast
+<p>👩‍💻 I am a student at Taras Shevchenko National University of Kyiv, studying Computer Science at the Faculty of Computer Science and Cybernetics. 🎓</p>  
+<p>Passionate about technology and always eager to learn new things! 🚀</p>
+<p>💡 Join us and become part of an innovative community! 👉 <a href="https://csc.knu.ua/uk/" target="_blank">csc.knu.ua</a></p>
 
 ### Languages :
 
